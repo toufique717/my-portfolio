@@ -1,0 +1,270 @@
+/* Design for header*/
+nav
+{
+    display:flex;
+    justify-content: space-between;
+}
+
+.banner
+{
+
+    display : flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ body
+ {
+
+    font-family: 'Open Sans', sans-serif;
+ }
+
+ .mary
+ {
+
+    color:#181818;
+
+ 
+font-size: 45px;
+font-style: normal;
+font-weight: 800;
+ 
+ }
+
+ .main-color
+ {
+
+    color:#FD6E0A;
+ }
+
+ nav > ul
+ {
+    display:flex;
+    align-items: center;
+ }
+
+ nav li
+ {
+
+    list-style: none;
+    margin-right:50px;
+     
+ }
+
+ nav a
+ {
+    text-decoration:none;
+    color: #474747;
+ }
+
+ .button
+ {
+
+border-radius: 5px;
+background: #FD6E0A;
+border:0;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+color:white;
+padding:18px 35px 18px 35px;
+
+ }
+ .banner
+ {
+    padding:30px 30px 10px 150px;
+    display:flex;
+    align-items:center;
+    background-image: url("../images/header_bg.png");
+    background-repeat: no-repeat;
+   background-position: bottom;
+    background-position: right;
+ }
+
+ .head
+ {
+    background-color: #FFF8F3;
+ }
+ .banner .profile-pic
+ {
+
+    width:500px;
+ }
+
+ .greeting
+ {
+    color: #474747;
+    margin-bottom: 5px;
+    font-size:40px;
+
+
+
+ }
+ .title
+{
+    color:  #181818;
+    
+    font-size: 85px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom:20px;
+     
+
+}
+
+.para
+{
+
+    width: 585px;
+ 
+color:  #757575;
+ 
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+
+}
+
+/* main section */
+
+.about
+{
+
+     
+    border-radius: 10px;
+    
+     background: #FFF8F3;
+     padding:130px;
+     margin: 130px 0px;
+}
+
+.about-title
+{
+    color:  #181818;
+    text-align: center;
+    
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom:30px;
+}
+
+.about-content
+{
+    width: 827px;
+ 
+    color:  #757575;
+    text-align: center;
+     
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    
+
+}
+
+.main
+{
+
+   max-width:1000px;
+   margin:0 auto;
+}
+
+.about-4
+
+{
+   display:flex;
+   justify-content: space-around;
+   text-align:center;
+}
+
+.section2
+{
+   text-align:center;
+}
+
+ .skill-style
+ {
+
+    
+   display:flex;
+   gap: 24px;
+   margin-top: 50px;
+   
+    
+ }
+ .js
+ {
+   padding:24px;
+   border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+ }
+ .react
+ {
+   padding:24px;
+   border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+
+ }
+ .node
+ {
+   padding:24px;
+   border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+ }
+ .mong
+ {
+   padding:24px;
+   border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+ }
+
+ .summary
+ {
+   margin-top:100px;
+   text-align:center;
+ }
+
+ .c-title
+ {
+   color:  #474747;
+    
+    
+    
+    
+    
+ }
+
+ .c-skills
+ {
+   color:  #474747;
+    
+    
+    
+    
+
+ }
+ .c-versity
+ {
+   color:  #757575;
+    
+ }
+
+ .c-des
+
+ {
+
+   color:   #757575;
+    
+ }
+ .column
+ {
+   display:flex;
+   gap:10px;
+ }
