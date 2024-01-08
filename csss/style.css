@@ -268,3 +268,91 @@ box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
    display:flex;
    gap:10px;
  }
+
+ .download
+ {
+   margin: 50px 970px 50px 430px;
+   
+ }
+
+ /* Footer design */
+ .foot
+ {
+
+   width:1200px;
+height: 600px;
+
+ 
+padding:50px;
+ 
+background: #FFF8F3;
+ }
+ .connect
+ {
+   color:  #181818;
+text-align: center;
+ 
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+ 
+ }
+
+ .fill
+ {
+
+   color:  #474747;
+ 
+font-size: 16px;
+ 
+font-weight: 400;
+line-height: 28px; /* 175% */
+ }
+
+ .ititle
+ {
+   color:  #181818;
+text-align: center;
+
+ 
+font-size: 35px;
+ 
+font-weight: 700;
+ 
+ }
+
+ .itext
+{
+
+   width: 461px;
+height: 64px;
+ 
+border-radius: 5px;
+background: #FFF;
+
+}
+
+.iemail
+{
+   width: 461px;
+height: 64px;
+ 
+border-radius: 5px;
+background:  #FFF;
+
+}
+
+.ifield
+{
+
+   width: 461px;
+height: 180px;
+ 
+border-radius: 5px;
+ color:#FFF;
+
+}
+.fflex
+{
+   display:flex;
+}
